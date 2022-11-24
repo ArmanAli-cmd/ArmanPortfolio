@@ -63,8 +63,8 @@
 	}
     @media only screen and (max-width: 600px) {
         .home_banner_area .banner_inner .banner_content .media .d-flex img {
-            width: 400px;
-            height: 450px;
+            width: 330px;
+            height: 430px;
         }
     }
 
